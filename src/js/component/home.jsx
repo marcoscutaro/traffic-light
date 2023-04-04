@@ -1,6 +1,6 @@
-import React from "react";
 
-import Light from "./js/component/Light.js";
+import Light from "./Light";
+import React, { Component } from "react";
 //include images into your bundle
 
 //create your first component
